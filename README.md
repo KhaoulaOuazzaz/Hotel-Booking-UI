@@ -1,16 +1,7 @@
 # hotel_booking
 
-A new Flutter project.
+On this project I've focused more on the UI side of FLUTTER, in to order to get more familiar and comfortable with the technology
 
-## Getting Started
+![](https://github.com/KhaoulaOuazzaz/Hotel-Booking-UI/blob/main/demo2-2.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://github.com/KhaoulaOuazzaz/Hotel-Booking-UI/blob/main/demo2-3.gif)
